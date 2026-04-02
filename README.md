@@ -1,9 +1,9 @@
 # TemplateExamen
 
 User Story Template
-Als klant
-wil ik een auto kunnen bekijken
-zodat ik kan beslissen of ik deze wil kopen
+Als [type gebruiker]
+wil ik [actie / functionaliteit]
+zodat [doel / waarde]
 
 Database Structuur Template
 Tabel: cars
